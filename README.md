@@ -1,2 +1,2 @@
-# MY-FIRST-GAME-
-I TRIED TO MAKE A SETUP 
+# p5.play-boilerplate
+Boiler plate for p5.play
